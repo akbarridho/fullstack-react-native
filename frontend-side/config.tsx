@@ -1,0 +1,1 @@
+export const be_url = 'https://8599-111-95-67-218.ngrok-free.app'
